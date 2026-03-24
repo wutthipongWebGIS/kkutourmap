@@ -1,0 +1,2 @@
+# kkutourmap
+kmlfile for tour
